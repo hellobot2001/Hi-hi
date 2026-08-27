@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hello\source\repos\Hi=hi\Hi=hi\main.cpp(14,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hello\source\repos\Hi=hi\Hi=hi\main.cpp(18,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Hi=hi.vcxproj -> C:\Users\hello\source\repos\Hi=hi\x64\Debug\Hi=hi.exe
